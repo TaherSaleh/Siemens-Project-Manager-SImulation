@@ -1,6 +1,6 @@
 # Siemens-Project-Manager-SImulation
 
-# Welcome to the Siemens Mobility Project Manager Job Simulation! We are thrilled to have you here.
+# Welcome to the Siemens Mobility Project Manager Job Simulation! 
 
 Siemens Mobility is a leading provider of transport solutions focusing on sustainable and efficient mobility. We offer a comprehensive range of products, services, and digital solutions for the entire mobility ecosystem, including rail and road transportation. Our offerings include infrastructure, rolling stock, rail electrification, signaling and control systems, and intelligent traffic systems. Siemens Mobility is committed to shaping the future of transportation through innovation, technology, and collaboration with partners worldwide.
 
